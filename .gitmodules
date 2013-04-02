@@ -1,0 +1,6 @@
+[submodule "go-winapi"]
+	path = go-winapi
+	url = https://SayCV@github.com/SayCV/go-winapi.git
+[submodule "go-walk"]
+	path = go-walk
+	url = https://SayCV@github.com/SayCV/go-walk.git
