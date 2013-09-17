@@ -4,3 +4,6 @@
 [submodule "go-walk"]
 	path = go-walk
 	url = https://SayCV@github.com/SayCV/go-walk.git
+[submodule "SayCV_Go_VT"]
+	path = SayCV_Go_VT
+	url = https://SayCV@github.com/SayCV/SayCV_Go_VT.git
