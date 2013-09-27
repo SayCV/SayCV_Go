@@ -7,3 +7,6 @@
 [submodule "src/github.com/SayCV/SayCV_Go_VT"]
 	path = src/github.com/SayCV/SayCV_Go_VT
 	url = https://SayCV@github.com/SayCV/SayCV_Go_VT.git
+[submodule "src/github.com/SayCV/SayCV_Go_Dota2S"]
+	path = src/github.com/SayCV/SayCV_Go_Dota2S
+	url = https://SayCV@github.com/SayCV/SayCV_Go_Dota2S.git
